@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\source\\repos\\Searching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74B8B63-9590-4BF8-B526-F8C744978FEE}|Searching\\Searching.vcxproj|C:\\Users\\kemal\\source\\repos\\Searching\\Searching\\Searching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E74B8B63-9590-4BF8-B526-F8C744978FEE}|Searching\\Searching.vcxproj|solutionrelative:Searching\\Searching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74B8B63-9590-4BF8-B526-F8C744978FEE}|Searching\\Searching.vcxproj|C:\\Users\\kemal\\source\\repos\\Searching\\Searching\\SearchingApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E74B8B63-9590-4BF8-B526-F8C744978FEE}|Searching\\Searching.vcxproj|solutionrelative:Searching\\SearchingApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchingApp.cpp",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\Searching\\Searching\\SearchingApp.cpp",
+              "RelativeDocumentMoniker": "Searching\\SearchingApp.cpp",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\Searching\\Searching\\SearchingApp.cpp",
+              "RelativeToolTip": "Searching\\SearchingApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T14:09:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Searching.cpp",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\Searching\\Searching\\Searching.cpp",
+              "RelativeDocumentMoniker": "Searching\\Searching.cpp",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\Searching\\Searching\\Searching.cpp",
+              "RelativeToolTip": "Searching\\Searching.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T14:09:08.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
